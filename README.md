@@ -12,3 +12,5 @@ Here, I will add those simple but very informative practices about this area. I 
 
 > [!NOTE]
 > README and codes are still updating. The whole project descriptions and required packages will be updated completely once the course is finished!
+
+© 2024 Codecademy. All rights reserved.
